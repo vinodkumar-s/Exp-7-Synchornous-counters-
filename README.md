@@ -111,6 +111,7 @@ UP COUNTER
 ![output](/up2.png)
 
 DOWN COUNTER
+
 ![output](/d2.png)
 
 
@@ -120,9 +121,11 @@ DOWN COUNTER
 
 ### TRUTH TABLE 
 UP COUNTER:
+
 ![output](/new31.png)
 
 DOWN COUNTER
+
 ![output](/new32.png)
 
 
